@@ -1,0 +1,24 @@
+*{
+    background-color: rgb(66, 180, 196);
+}
+p{
+    text-align: center;
+    font-size: 26px;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+}
+ul{
+    text-align: center;
+}
+li{
+    
+    line-height: 80px;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
